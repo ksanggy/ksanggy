@@ -57,6 +57,16 @@
   </ul>
 </div>
 
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!--
 **ksanggy/ksanggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
